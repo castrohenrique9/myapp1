@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* testando chave pública ssh.
+* commit sem senha
